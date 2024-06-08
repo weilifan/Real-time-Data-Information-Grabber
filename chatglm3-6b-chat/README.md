@@ -1,0 +1,1 @@
+下载chatglm3 6b chat模型，并存放在此文件夹下，下载地址：`https://huggingface.co/THUDM/chatglm3-6b`
